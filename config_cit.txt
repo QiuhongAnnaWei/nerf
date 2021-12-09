@@ -1,6 +1,6 @@
 expname = cit_test
-basedir = ./logs/cit/
-datadir = ./wide3_clip
+basedir = ./logs/citwide3/
+datadir = ./wide3
 dataset_type = llff
 
 factor = 8
