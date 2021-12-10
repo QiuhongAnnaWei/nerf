@@ -14,3 +14,5 @@ use_viewdirs = True
 raw_noise_std = 1e0
 
 i_video = 500
+
+render_only = True
