@@ -3,7 +3,7 @@ basedir = ./logs/citwide3/
 datadir = ./wide3
 dataset_type = llff
 
-factor = 8
+factor = None
 llffhold = 8
 
 N_rand = 1024
